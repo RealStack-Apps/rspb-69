@@ -1,6 +1,5 @@
-'use strict';
-
-var fs = require('fs');
+const express = require('express');
+const fs = require('fs');
 var path = require('path');
 
 exports.get = function(event, context, callback) {
