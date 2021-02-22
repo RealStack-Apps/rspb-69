@@ -1,48 +1,30 @@
-const express = require('express');
 const fs = require('fs');
-var path = require('path');
+const express = require('express');
+const app = express();
 
-exports.get = function(event, context, callback) {
-  var contents = fs.readFileSync(`public${path.sep}index.html`);
-  var result = {
-    statusCode: 200,
-    body: contents.toString(),
-    headers: {'content-type': 'text/html'}
-  };
+const getCovid = () => {
+  let data = fs.readFileSync('global.json')
+  return JSON.parse(data)
+}
 
+app.get('/', function (req, res) {
+  res.send('Hello RealStack!')
+})
 
-
-
-
-
-
-
-
+const getRank = () => {
+  let rankData = fs.readFileSync('rank.json')
+  return JSON.parse(rankData)
+}
 
 
+app.get('/global', (req,res) => {
+  const globalData = getCovid()
+  res.send(globalData)
+})
 
+app.get('/rank',(req, res) => {
+  const rankings = getRank()
+  res.send(rankings)
+})
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  callback(null, result);
-};
-
+app.listen(8080);
