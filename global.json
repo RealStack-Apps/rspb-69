@@ -1,0 +1,1906 @@
+[
+  {
+    "name": "Global",
+    "region": "",
+    "cases": 110384747,
+    "caseDensity": 1414.045018,
+    "deaths": 2446008,
+    "deathDensity": 31.33372609
+  },
+  {
+    "name": "United States of America",
+    "region": "Americas",
+    "cases": 27628834,
+    "caseDensity": 8347.01,
+    "deaths": 489351,
+    "deathDensity": 147.84
+  },
+  {
+    "name": "India",
+    "region": "South-East Asia",
+    "cases": 10977387,
+    "caseDensity": 795.46,
+    "deaths": 156212,
+    "deathDensity": 11.32
+  },
+  {
+    "name": "Brazil",
+    "region": "Americas",
+    "cases": 10030626,
+    "caseDensity": 4718.98,
+    "deaths": 243457,
+    "deathDensity": 114.54
+  },
+  {
+    "name": "Russian Federation",
+    "region": "Europe",
+    "cases": 4151984,
+    "caseDensity": 2845.1,
+    "deaths": 82876,
+    "deathDensity": 56.79
+  },
+  {
+    "name": "The United Kingdom",
+    "region": "Europe",
+    "cases": 4095273,
+    "caseDensity": 6032.57,
+    "deaths": 119920,
+    "deathDensity": 176.65
+  },
+  {
+    "name": "France",
+    "region": "Europe",
+    "cases": 3499305,
+    "caseDensity": 5360.99,
+    "deaths": 83524,
+    "deathDensity": 127.96
+  },
+  {
+    "name": "Spain",
+    "region": "Europe",
+    "cases": 3121687,
+    "caseDensity": 6676.72,
+    "deaths": 66704,
+    "deathDensity": 142.67
+  },
+  {
+    "name": "Italy",
+    "region": "Europe",
+    "cases": 2780882,
+    "caseDensity": 4599.4,
+    "deaths": 95235,
+    "deathDensity": 157.51
+  },
+  {
+    "name": "Turkey",
+    "region": "Europe",
+    "cases": 2624019,
+    "caseDensity": 3111.27,
+    "deaths": 27903,
+    "deathDensity": 33.08
+  },
+  {
+    "name": "Germany",
+    "region": "Europe",
+    "cases": 2378883,
+    "caseDensity": 2839.31,
+    "deaths": 67696,
+    "deathDensity": 80.8
+  },
+  {
+    "name": "Colombia",
+    "region": "Americas",
+    "cases": 2212525,
+    "caseDensity": 4348.27,
+    "deaths": 58334,
+    "deathDensity": 114.64
+  },
+  {
+    "name": "Argentina",
+    "region": "Americas",
+    "cases": 2046795,
+    "caseDensity": 4528.73,
+    "deaths": 50857,
+    "deathDensity": 112.53
+  },
+  {
+    "name": "Mexico",
+    "region": "Americas",
+    "cases": 2022662,
+    "caseDensity": 1568.77,
+    "deaths": 178108,
+    "deathDensity": 138.14
+  },
+  {
+    "name": "Poland",
+    "region": "Europe",
+    "cases": 1631727,
+    "caseDensity": 4311.42,
+    "deaths": 42077,
+    "deathDensity": 111.18
+  },
+  {
+    "name": "Iran (Islamic Republic of)",
+    "region": "Eastern Mediterranean",
+    "cases": 1558159,
+    "caseDensity": 1855.11,
+    "deaths": 59341,
+    "deathDensity": 70.65
+  },
+  {
+    "name": "South Africa",
+    "region": "Africa",
+    "cases": 1500677,
+    "caseDensity": 2530.28,
+    "deaths": 48859,
+    "deathDensity": 82.38
+  },
+  {
+    "name": "Ukraine",
+    "region": "Europe",
+    "cases": 1299967,
+    "caseDensity": 2972.46,
+    "deaths": 25045,
+    "deathDensity": 57.27
+  },
+  {
+    "name": "Indonesia",
+    "region": "South-East Asia",
+    "cases": 1263299,
+    "caseDensity": 461.86,
+    "deaths": 34152,
+    "deathDensity": 12.49
+  },
+  {
+    "name": "Peru",
+    "region": "Americas",
+    "cases": 1261804,
+    "caseDensity": 3826.91,
+    "deaths": 44489,
+    "deathDensity": 134.93
+  },
+  {
+    "name": "Czechia",
+    "region": "Europe",
+    "cases": 1146321,
+    "caseDensity": 10704.3,
+    "deaths": 19097,
+    "deathDensity": 178.33
+  },
+  {
+    "name": "Netherlands",
+    "region": "Europe",
+    "cases": 1047400,
+    "caseDensity": 6112.68,
+    "deaths": 15138,
+    "deathDensity": 88.35
+  },
+  {
+    "name": "Canada",
+    "region": "Americas",
+    "cases": 837497,
+    "caseDensity": 2219,
+    "deaths": 21498,
+    "deathDensity": 56.96
+  },
+  {
+    "name": "Portugal",
+    "region": "Europe",
+    "cases": 794769,
+    "caseDensity": 7794.37,
+    "deaths": 15821,
+    "deathDensity": 155.16
+  },
+  {
+    "name": "Chile",
+    "region": "Americas",
+    "cases": 791939,
+    "caseDensity": 4142.76,
+    "deaths": 19897,
+    "deathDensity": 104.08
+  },
+  {
+    "name": "Romania",
+    "region": "Europe",
+    "cases": 774555,
+    "caseDensity": 4026.24,
+    "deaths": 19738,
+    "deathDensity": 102.6
+  },
+  {
+    "name": "Belgium",
+    "region": "Europe",
+    "cases": 749739,
+    "caseDensity": 6469.05,
+    "deaths": 21859,
+    "deathDensity": 188.61
+  },
+  {
+    "name": "Israel",
+    "region": "Europe",
+    "cases": 731037,
+    "caseDensity": 8445.89,
+    "deaths": 5417,
+    "deathDensity": 62.58
+  },
+  {
+    "name": "Iraq",
+    "region": "Eastern Mediterranean",
+    "cases": 661477,
+    "caseDensity": 1644.55,
+    "deaths": 13232,
+    "deathDensity": 32.9
+  },
+  {
+    "name": "Sweden",
+    "region": "Europe",
+    "cases": 631166,
+    "caseDensity": 6249.62,
+    "deaths": 12649,
+    "deathDensity": 125.25
+  },
+  {
+    "name": "Pakistan",
+    "region": "Eastern Mediterranean",
+    "cases": 568506,
+    "caseDensity": 257.37,
+    "deaths": 12527,
+    "deathDensity": 5.67
+  },
+  {
+    "name": "Philippines",
+    "region": "Western Pacific",
+    "cases": 557058,
+    "caseDensity": 508.35,
+    "deaths": 11829,
+    "deathDensity": 10.79
+  },
+  {
+    "name": "Switzerland",
+    "region": "Europe",
+    "cases": 545158,
+    "caseDensity": 6299.04,
+    "deaths": 9148,
+    "deathDensity": 105.7
+  },
+  {
+    "name": "Bangladesh",
+    "region": "South-East Asia",
+    "cases": 542674,
+    "caseDensity": 329.51,
+    "deaths": 8337,
+    "deathDensity": 5.06
+  },
+  {
+    "name": "Morocco",
+    "region": "Eastern Mediterranean",
+    "cases": 480504,
+    "caseDensity": 1301.81,
+    "deaths": 8540,
+    "deathDensity": 23.14
+  },
+  {
+    "name": "Austria",
+    "region": "Europe",
+    "cases": 437899,
+    "caseDensity": 4862.09,
+    "deaths": 8233,
+    "deathDensity": 91.41
+  },
+  {
+    "name": "Serbia",
+    "region": "Europe",
+    "cases": 431680,
+    "caseDensity": 6198.95,
+    "deaths": 4306,
+    "deathDensity": 61.83
+  },
+  {
+    "name": "Japan",
+    "region": "Western Pacific",
+    "cases": 423311,
+    "caseDensity": 334.7,
+    "deaths": 7333,
+    "deathDensity": 5.8
+  },
+  {
+    "name": "Hungary",
+    "region": "Europe",
+    "cases": 400111,
+    "caseDensity": 4141.79,
+    "deaths": 14252,
+    "deathDensity": 147.53
+  },
+  {
+    "name": "Saudi Arabia",
+    "region": "Eastern Mediterranean",
+    "cases": 374366,
+    "caseDensity": 1075.34,
+    "deaths": 6454,
+    "deathDensity": 18.54
+  },
+  {
+    "name": "United Arab Emirates",
+    "region": "Eastern Mediterranean",
+    "cases": 365017,
+    "caseDensity": 3690.62,
+    "deaths": 1093,
+    "deathDensity": 11.05
+  },
+  {
+    "name": "Jordan",
+    "region": "Eastern Mediterranean",
+    "cases": 357611,
+    "caseDensity": 3504.91,
+    "deaths": 4528,
+    "deathDensity": 44.38
+  },
+  {
+    "name": "Lebanon",
+    "region": "Eastern Mediterranean",
+    "cases": 351048,
+    "caseDensity": 5143.23,
+    "deaths": 4257,
+    "deathDensity": 62.37
+  },
+  {
+    "name": "Panama",
+    "region": "Americas",
+    "cases": 334463,
+    "caseDensity": 7751.59,
+    "deaths": 5694,
+    "deathDensity": 131.97
+  },
+  {
+    "name": "Slovakia",
+    "region": "Europe",
+    "cases": 290457,
+    "caseDensity": 5320.07,
+    "deaths": 6424,
+    "deathDensity": 117.66
+  },
+  {
+    "name": "Malaysia",
+    "region": "Western Pacific",
+    "cases": 277811,
+    "caseDensity": 858.34,
+    "deaths": 1043,
+    "deathDensity": 3.22
+  },
+  {
+    "name": "Belarus",
+    "region": "Europe",
+    "cases": 275322,
+    "caseDensity": 2913.67,
+    "deaths": 1894,
+    "deathDensity": 20.04
+  },
+  {
+    "name": "Nepal",
+    "region": "South-East Asia",
+    "cases": 273263,
+    "caseDensity": 937.86,
+    "deaths": 2061,
+    "deathDensity": 7.07
+  },
+  {
+    "name": "Ecuador",
+    "region": "Americas",
+    "cases": 271276,
+    "caseDensity": 1537.58,
+    "deaths": 15474,
+    "deathDensity": 87.71
+  },
+  {
+    "name": "Georgia",
+    "region": "Europe",
+    "cases": 268097,
+    "caseDensity": 6720.63,
+    "deaths": 3425,
+    "deathDensity": 85.86
+  },
+  {
+    "name": "Kazakhstan",
+    "region": "Europe",
+    "cases": 254712,
+    "caseDensity": 1356.53,
+    "deaths": 3246,
+    "deathDensity": 17.29
+  },
+  {
+    "name": "Croatia",
+    "region": "Europe",
+    "cases": 239685,
+    "caseDensity": 5838.48,
+    "deaths": 5420,
+    "deathDensity": 132.03
+  },
+  {
+    "name": "Bolivia (Plurinational State of)",
+    "region": "Americas",
+    "cases": 239524,
+    "caseDensity": 2051.95,
+    "deaths": 11353,
+    "deathDensity": 97.26
+  },
+  {
+    "name": "Bulgaria",
+    "region": "Europe",
+    "cases": 235891,
+    "caseDensity": 3394.87,
+    "deaths": 9821,
+    "deathDensity": 141.34
+  },
+  {
+    "name": "Dominican Republic",
+    "region": "Americas",
+    "cases": 233598,
+    "caseDensity": 2153.39,
+    "deaths": 3024,
+    "deathDensity": 27.88
+  },
+  {
+    "name": "Azerbaijan",
+    "region": "Europe",
+    "cases": 232829,
+    "caseDensity": 2296.33,
+    "deaths": 3193,
+    "deathDensity": 31.49
+  },
+  {
+    "name": "Tunisia",
+    "region": "Eastern Mediterranean",
+    "cases": 226740,
+    "caseDensity": 1918.5,
+    "deaths": 7719,
+    "deathDensity": 65.31
+  },
+  {
+    "name": "Ireland",
+    "region": "Europe",
+    "cases": 213400,
+    "caseDensity": 4321.77,
+    "deaths": 4109,
+    "deathDensity": 83.22
+  },
+  {
+    "name": "Denmark",
+    "region": "Europe",
+    "cases": 206617,
+    "caseDensity": 3567.16,
+    "deaths": 2327,
+    "deathDensity": 40.17
+  },
+  {
+    "name": "Costa Rica",
+    "region": "Americas",
+    "cases": 201241,
+    "caseDensity": 3950.46,
+    "deaths": 2756,
+    "deathDensity": 54.1
+  },
+  {
+    "name": "occupied Palestinian territory, including east Jerusalem",
+    "region": "Eastern Mediterranean",
+    "cases": 194277,
+    "caseDensity": 3808.3,
+    "deaths": 2162,
+    "deathDensity": 42.38
+  },
+  {
+    "name": "Lithuania",
+    "region": "Europe",
+    "cases": 193562,
+    "caseDensity": 7110.27,
+    "deaths": 3162,
+    "deathDensity": 116.15
+  },
+  {
+    "name": "Slovenia",
+    "region": "Europe",
+    "cases": 183396,
+    "caseDensity": 8821.62,
+    "deaths": 4034,
+    "deathDensity": 194.04
+  },
+  {
+    "name": "Kuwait",
+    "region": "Eastern Mediterranean",
+    "cases": 182460,
+    "caseDensity": 4272.5,
+    "deaths": 1034,
+    "deathDensity": 24.21
+  },
+  {
+    "name": "Greece",
+    "region": "Europe",
+    "cases": 177494,
+    "caseDensity": 1702.9,
+    "deaths": 6249,
+    "deathDensity": 59.95
+  },
+  {
+    "name": "Egypt",
+    "region": "Eastern Mediterranean",
+    "cases": 176943,
+    "caseDensity": 172.91,
+    "deaths": 10250,
+    "deathDensity": 10.02
+  },
+  {
+    "name": "Republic of Moldova",
+    "region": "Europe",
+    "cases": 175183,
+    "caseDensity": 4342.7,
+    "deaths": 3739,
+    "deathDensity": 92.69
+  },
+  {
+    "name": "Guatemala",
+    "region": "Americas",
+    "cases": 170275,
+    "caseDensity": 950.43,
+    "deaths": 6220,
+    "deathDensity": 34.72
+  },
+  {
+    "name": "Armenia",
+    "region": "Europe",
+    "cases": 170234,
+    "caseDensity": 5744.85,
+    "deaths": 3159,
+    "deathDensity": 106.61
+  },
+  {
+    "name": "Honduras",
+    "region": "Americas",
+    "cases": 163305,
+    "caseDensity": 1648.78,
+    "deaths": 3965,
+    "deathDensity": 40.03
+  },
+  {
+    "name": "Qatar",
+    "region": "Eastern Mediterranean",
+    "cases": 159518,
+    "caseDensity": 5536.8,
+    "deaths": 256,
+    "deathDensity": 8.89
+  },
+  {
+    "name": "Ethiopia",
+    "region": "Africa",
+    "cases": 151016,
+    "caseDensity": 131.36,
+    "deaths": 2259,
+    "deathDensity": 1.96
+  },
+  {
+    "name": "Nigeria",
+    "region": "Africa",
+    "cases": 150908,
+    "caseDensity": 73.21,
+    "deaths": 1813,
+    "deathDensity": 0.88
+  },
+  {
+    "name": "Paraguay",
+    "region": "Americas",
+    "cases": 148622,
+    "caseDensity": 2083.72,
+    "deaths": 3008,
+    "deathDensity": 42.17
+  },
+  {
+    "name": "Myanmar",
+    "region": "South-East Asia",
+    "cases": 141709,
+    "caseDensity": 260.45,
+    "deaths": 3192,
+    "deathDensity": 5.87
+  },
+  {
+    "name": "Oman",
+    "region": "Eastern Mediterranean",
+    "cases": 138494,
+    "caseDensity": 2712.05,
+    "deaths": 1549,
+    "deathDensity": 30.33
+  },
+  {
+    "name": "Venezuela (Bolivarian Republic of)",
+    "region": "Americas",
+    "cases": 134781,
+    "caseDensity": 473.98,
+    "deaths": 1303,
+    "deathDensity": 4.58
+  },
+  {
+    "name": "Libya",
+    "region": "Eastern Mediterranean",
+    "cases": 129325,
+    "caseDensity": 1882.11,
+    "deaths": 2088,
+    "deathDensity": 30.39
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "region": "Europe",
+    "cases": 127537,
+    "caseDensity": 3887.35,
+    "deaths": 4979,
+    "deathDensity": 151.76
+  },
+  {
+    "name": "Bahrain",
+    "region": "Eastern Mediterranean",
+    "cases": 116482,
+    "caseDensity": 6845.54,
+    "deaths": 418,
+    "deathDensity": 24.57
+  },
+  {
+    "name": "Algeria",
+    "region": "Africa",
+    "cases": 111600,
+    "caseDensity": 254.5,
+    "deaths": 2954,
+    "deathDensity": 6.74
+  },
+  {
+    "name": "Kenya",
+    "region": "Africa",
+    "cases": 103841,
+    "caseDensity": 193.12,
+    "deaths": 1813,
+    "deathDensity": 3.37
+  },
+  {
+    "name": "China",
+    "region": "Western Pacific",
+    "cases": 101646,
+    "caseDensity": 6.91,
+    "deaths": 4842,
+    "deathDensity": 0.33
+  },
+  {
+    "name": "Puerto Rico",
+    "region": "Americas",
+    "cases": 98624,
+    "caseDensity": 3447.36,
+    "deaths": 1947,
+    "deathDensity": 68.06
+  },
+  {
+    "name": "North Macedonia",
+    "region": "Europe",
+    "cases": 98584,
+    "caseDensity": 4731.93,
+    "deaths": 3037,
+    "deathDensity": 145.77
+  },
+  {
+    "name": "Albania",
+    "region": "Europe",
+    "cases": 97909,
+    "caseDensity": 3402.22,
+    "deaths": 1636,
+    "deathDensity": 56.85
+  },
+  {
+    "name": "Republic of Korea",
+    "region": "Western Pacific",
+    "cases": 86574,
+    "caseDensity": 168.86,
+    "deaths": 1553,
+    "deathDensity": 3.03
+  },
+  {
+    "name": "Kyrgyzstan",
+    "region": "Europe",
+    "cases": 85831,
+    "caseDensity": 1315.58,
+    "deaths": 1452,
+    "deathDensity": 22.26
+  },
+  {
+    "name": "Latvia",
+    "region": "Europe",
+    "cases": 80040,
+    "caseDensity": 4243.46,
+    "deaths": 1533,
+    "deathDensity": 81.27
+  },
+  {
+    "name": "Uzbekistan",
+    "region": "Europe",
+    "cases": 79632,
+    "caseDensity": 237.93,
+    "deaths": 622,
+    "deathDensity": 1.86
+  },
+  {
+    "name": "Ghana",
+    "region": "Africa",
+    "cases": 79165,
+    "caseDensity": 254.77,
+    "deaths": 568,
+    "deathDensity": 1.83
+  },
+  {
+    "name": "Sri Lanka",
+    "region": "South-East Asia",
+    "cases": 78937,
+    "caseDensity": 368.64,
+    "deaths": 433,
+    "deathDensity": 2.02
+  },
+  {
+    "name": "Zambia",
+    "region": "Africa",
+    "cases": 73203,
+    "caseDensity": 398.19,
+    "deaths": 1002,
+    "deathDensity": 5.45
+  },
+  {
+    "name": "Montenegro",
+    "region": "Europe",
+    "cases": 71112,
+    "caseDensity": 11322.38,
+    "deaths": 926,
+    "deathDensity": 147.44
+  },
+  {
+    "name": "Norway",
+    "region": "Europe",
+    "cases": 67824,
+    "caseDensity": 1251.08,
+    "deaths": 607,
+    "deathDensity": 11.2
+  },
+  {
+    "name": "Kosovo[1]",
+    "region": "Europe",
+    "cases": 65647,
+    "caseDensity": 3528.69,
+    "deaths": 1558,
+    "deathDensity": 83.75
+  },
+  {
+    "name": "Singapore",
+    "region": "Western Pacific",
+    "cases": 59846,
+    "caseDensity": 1022.95,
+    "deaths": 29,
+    "deathDensity": 0.5
+  },
+  {
+    "name": "El Salvador",
+    "region": "Americas",
+    "cases": 58546,
+    "caseDensity": 902.62,
+    "deaths": 1785,
+    "deathDensity": 27.52
+  },
+  {
+    "name": "Estonia",
+    "region": "Europe",
+    "cases": 57033,
+    "caseDensity": 4299.4,
+    "deaths": 528,
+    "deathDensity": 39.8
+  },
+  {
+    "name": "Afghanistan",
+    "region": "Eastern Mediterranean",
+    "cases": 55580,
+    "caseDensity": 142.78,
+    "deaths": 2430,
+    "deathDensity": 6.24
+  },
+  {
+    "name": "Mozambique",
+    "region": "Africa",
+    "cases": 54204,
+    "caseDensity": 173.42,
+    "deaths": 583,
+    "deathDensity": 1.87
+  },
+  {
+    "name": "Luxembourg",
+    "region": "Europe",
+    "cases": 53782,
+    "caseDensity": 8591.68,
+    "deaths": 622,
+    "deathDensity": 99.36
+  },
+  {
+    "name": "Finland",
+    "region": "Europe",
+    "cases": 52653,
+    "caseDensity": 950.29,
+    "deaths": 726,
+    "deathDensity": 13.1
+  },
+  {
+    "name": "Uruguay",
+    "region": "Americas",
+    "cases": 50752,
+    "caseDensity": 1461.02,
+    "deaths": 558,
+    "deathDensity": 16.06
+  },
+  {
+    "name": "Cuba",
+    "region": "Americas",
+    "cases": 42547,
+    "caseDensity": 375.64,
+    "deaths": 287,
+    "deathDensity": 2.53
+  },
+  {
+    "name": "Uganda",
+    "region": "Africa",
+    "cases": 40168,
+    "caseDensity": 87.82,
+    "deaths": 331,
+    "deathDensity": 0.72
+  },
+  {
+    "name": "Namibia",
+    "region": "Africa",
+    "cases": 36993,
+    "caseDensity": 1455.9,
+    "deaths": 394,
+    "deathDensity": 15.51
+  },
+  {
+    "name": "Zimbabwe",
+    "region": "Africa",
+    "cases": 35710,
+    "caseDensity": 240.26,
+    "deaths": 1430,
+    "deathDensity": 9.62
+  },
+  {
+    "name": "Cyprus",
+    "region": "Europe",
+    "cases": 33046,
+    "caseDensity": 2737.05,
+    "deaths": 229,
+    "deathDensity": 18.97
+  },
+  {
+    "name": "Cameroon",
+    "region": "Africa",
+    "cases": 32681,
+    "caseDensity": 123.11,
+    "deaths": 500,
+    "deathDensity": 1.88
+  },
+  {
+    "name": "Senegal",
+    "region": "Africa",
+    "cases": 32378,
+    "caseDensity": 193.37,
+    "deaths": 787,
+    "deathDensity": 4.7
+  },
+  {
+    "name": "Côte d’Ivoire",
+    "region": "Africa",
+    "cases": 31825,
+    "caseDensity": 120.65,
+    "deaths": 185,
+    "deathDensity": 0.7
+  },
+  {
+    "name": "Malawi",
+    "region": "Africa",
+    "cases": 30277,
+    "caseDensity": 158.27,
+    "deaths": 992,
+    "deathDensity": 5.19
+  },
+  {
+    "name": "Sudan",
+    "region": "Eastern Mediterranean",
+    "cases": 30128,
+    "caseDensity": 68.71,
+    "deaths": 1864,
+    "deathDensity": 4.25
+  },
+  {
+    "name": "Australia",
+    "region": "Western Pacific",
+    "cases": 28918,
+    "caseDensity": 113.4,
+    "deaths": 909,
+    "deathDensity": 3.56
+  },
+  {
+    "name": "Botswana",
+    "region": "Africa",
+    "cases": 26524,
+    "caseDensity": 1127.9,
+    "deaths": 254,
+    "deathDensity": 10.8
+  },
+  {
+    "name": "Thailand",
+    "region": "South-East Asia",
+    "cases": 25323,
+    "caseDensity": 36.28,
+    "deaths": 83,
+    "deathDensity": 0.12
+  },
+  {
+    "name": "Democratic Republic of the Congo",
+    "region": "Africa",
+    "cases": 24963,
+    "caseDensity": 27.87,
+    "deaths": 694,
+    "deathDensity": 0.77
+  },
+  {
+    "name": "Jamaica",
+    "region": "Americas",
+    "cases": 20581,
+    "caseDensity": 695.03,
+    "deaths": 391,
+    "deathDensity": 13.2
+  },
+  {
+    "name": "Malta",
+    "region": "Europe",
+    "cases": 20563,
+    "caseDensity": 4657.08,
+    "deaths": 301,
+    "deathDensity": 68.17
+  },
+  {
+    "name": "Angola",
+    "region": "Africa",
+    "cases": 20478,
+    "caseDensity": 62.31,
+    "deaths": 498,
+    "deathDensity": 1.52
+  },
+  {
+    "name": "Madagascar",
+    "region": "Africa",
+    "cases": 19598,
+    "caseDensity": 70.77,
+    "deaths": 292,
+    "deathDensity": 1.05
+  },
+  {
+    "name": "Maldives",
+    "region": "South-East Asia",
+    "cases": 18467,
+    "caseDensity": 3416.37,
+    "deaths": 59,
+    "deathDensity": 10.91
+  },
+  {
+    "name": "French Polynesia",
+    "region": "Western Pacific",
+    "cases": 18346,
+    "caseDensity": 6530.96,
+    "deaths": 137,
+    "deathDensity": 48.77
+  },
+  {
+    "name": "Rwanda",
+    "region": "Africa",
+    "cases": 17929,
+    "caseDensity": 138.42,
+    "deaths": 245,
+    "deathDensity": 1.89
+  },
+  {
+    "name": "Mauritania",
+    "region": "Africa",
+    "cases": 17071,
+    "caseDensity": 367.15,
+    "deaths": 433,
+    "deathDensity": 9.31
+  },
+  {
+    "name": "Eswatini",
+    "region": "Africa",
+    "cases": 16742,
+    "caseDensity": 1443.07,
+    "deaths": 643,
+    "deathDensity": 55.42
+  },
+  {
+    "name": "French Guiana",
+    "region": "Americas",
+    "cases": 16529,
+    "caseDensity": 5533.98,
+    "deaths": 83,
+    "deathDensity": 27.79
+  },
+  {
+    "name": "Mayotte",
+    "region": "Africa",
+    "cases": 15365,
+    "caseDensity": 5632.02,
+    "deaths": 92,
+    "deathDensity": 33.72
+  },
+  {
+    "name": "Guinea",
+    "region": "Africa",
+    "cases": 15216,
+    "caseDensity": 115.86,
+    "deaths": 86,
+    "deathDensity": 0.65
+  },
+  {
+    "name": "Syrian Arab Republic",
+    "region": "Eastern Mediterranean",
+    "cases": 15094,
+    "caseDensity": 86.25,
+    "deaths": 994,
+    "deathDensity": 5.68
+  },
+  {
+    "name": "Cabo Verde",
+    "region": "Africa",
+    "cases": 14948,
+    "caseDensity": 2688.55,
+    "deaths": 142,
+    "deathDensity": 25.54
+  },
+  {
+    "name": "Tajikistan",
+    "region": "Europe",
+    "cases": 13714,
+    "caseDensity": 143.79,
+    "deaths": 91,
+    "deathDensity": 0.95
+  },
+  {
+    "name": "Gabon",
+    "region": "Africa",
+    "cases": 13553,
+    "caseDensity": 608.92,
+    "deaths": 75,
+    "deathDensity": 3.37
+  },
+  {
+    "name": "Haiti",
+    "region": "Americas",
+    "cases": 12254,
+    "caseDensity": 107.47,
+    "deaths": 247,
+    "deathDensity": 2.17
+  },
+  {
+    "name": "Belize",
+    "region": "Americas",
+    "cases": 12207,
+    "caseDensity": 3069.95,
+    "deaths": 314,
+    "deathDensity": 78.97
+  },
+  {
+    "name": "Burkina Faso",
+    "region": "Africa",
+    "cases": 11763,
+    "caseDensity": 56.27,
+    "deaths": 139,
+    "deathDensity": 0.66
+  },
+  {
+    "name": "Réunion",
+    "region": "Africa",
+    "cases": 11562,
+    "caseDensity": 1291.39,
+    "deaths": 48,
+    "deathDensity": 5.36
+  },
+  {
+    "name": "Andorra",
+    "region": "Europe",
+    "cases": 10645,
+    "caseDensity": 13777.26,
+    "deaths": 107,
+    "deathDensity": 138.48
+  },
+  {
+    "name": "Lesotho",
+    "region": "Africa",
+    "cases": 10455,
+    "caseDensity": 488.04,
+    "deaths": 285,
+    "deathDensity": 13.3
+  },
+  {
+    "name": "Guadeloupe",
+    "region": "Americas",
+    "cases": 9455,
+    "caseDensity": 2363.02,
+    "deaths": 160,
+    "deathDensity": 39.99
+  },
+  {
+    "name": "Suriname",
+    "region": "Americas",
+    "cases": 8838,
+    "caseDensity": 1506.57,
+    "deaths": 168,
+    "deathDensity": 28.64
+  },
+  {
+    "name": "Congo",
+    "region": "Africa",
+    "cases": 8419,
+    "caseDensity": 152.57,
+    "deaths": 123,
+    "deathDensity": 2.23
+  },
+  {
+    "name": "Bahamas",
+    "region": "Americas",
+    "cases": 8403,
+    "caseDensity": 2136.84,
+    "deaths": 179,
+    "deathDensity": 45.52
+  },
+  {
+    "name": "Guyana",
+    "region": "Americas",
+    "cases": 8338,
+    "caseDensity": 1060.07,
+    "deaths": 189,
+    "deathDensity": 24.03
+  },
+  {
+    "name": "Mali",
+    "region": "Africa",
+    "cases": 8260,
+    "caseDensity": 40.79,
+    "deaths": 344,
+    "deathDensity": 1.7
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "region": "Americas",
+    "cases": 7666,
+    "caseDensity": 547.77,
+    "deaths": 138,
+    "deathDensity": 9.86
+  },
+  {
+    "name": "Aruba",
+    "region": "Americas",
+    "cases": 7553,
+    "caseDensity": 7074.35,
+    "deaths": 70,
+    "deathDensity": 65.56
+  },
+  {
+    "name": "Guam",
+    "region": "Western Pacific",
+    "cases": 7506,
+    "caseDensity": 4447.34,
+    "deaths": 130,
+    "deathDensity": 77.03
+  },
+  {
+    "name": "Martinique",
+    "region": "Americas",
+    "cases": 6593,
+    "caseDensity": 1756.89,
+    "deaths": 45,
+    "deathDensity": 11.99
+  },
+  {
+    "name": "South Sudan",
+    "region": "Africa",
+    "cases": 6277,
+    "caseDensity": 56.08,
+    "deaths": 83,
+    "deathDensity": 0.74
+  },
+  {
+    "name": "Togo",
+    "region": "Africa",
+    "cases": 6182,
+    "caseDensity": 74.67,
+    "deaths": 81,
+    "deathDensity": 0.98
+  },
+  {
+    "name": "Iceland",
+    "region": "Europe",
+    "cases": 6045,
+    "caseDensity": 1771.46,
+    "deaths": 29,
+    "deathDensity": 8.5
+  },
+  {
+    "name": "Djibouti",
+    "region": "Eastern Mediterranean",
+    "cases": 6022,
+    "caseDensity": 609.51,
+    "deaths": 63,
+    "deathDensity": 6.38
+  },
+  {
+    "name": "Equatorial Guinea",
+    "region": "Africa",
+    "cases": 5747,
+    "caseDensity": 409.63,
+    "deaths": 88,
+    "deathDensity": 6.27
+  },
+  {
+    "name": "Somalia",
+    "region": "Eastern Mediterranean",
+    "cases": 5632,
+    "caseDensity": 35.44,
+    "deaths": 179,
+    "deathDensity": 1.13
+  },
+  {
+    "name": "Benin",
+    "region": "Africa",
+    "cases": 5143,
+    "caseDensity": 42.42,
+    "deaths": 65,
+    "deathDensity": 0.54
+  },
+  {
+    "name": "Nicaragua",
+    "region": "Americas",
+    "cases": 5106,
+    "caseDensity": 77.08,
+    "deaths": 172,
+    "deathDensity": 2.6
+  },
+  {
+    "name": "Central African Republic",
+    "region": "Africa",
+    "cases": 4996,
+    "caseDensity": 103.44,
+    "deaths": 63,
+    "deathDensity": 1.3
+  },
+  {
+    "name": "Niger",
+    "region": "Africa",
+    "cases": 4725,
+    "caseDensity": 19.52,
+    "deaths": 170,
+    "deathDensity": 0.7
+  },
+  {
+    "name": "Curaçao",
+    "region": "Americas",
+    "cases": 4666,
+    "caseDensity": 2843.51,
+    "deaths": 22,
+    "deathDensity": 13.41
+  },
+  {
+    "name": "Gambia",
+    "region": "Africa",
+    "cases": 4510,
+    "caseDensity": 186.62,
+    "deaths": 139,
+    "deathDensity": 5.75
+  },
+  {
+    "name": "Gibraltar",
+    "region": "Europe",
+    "cases": 4227,
+    "caseDensity": 12546.38,
+    "deaths": 88,
+    "deathDensity": 261.2
+  },
+  {
+    "name": "Sierra Leone",
+    "region": "Africa",
+    "cases": 3841,
+    "caseDensity": 48.15,
+    "deaths": 79,
+    "deathDensity": 0.99
+  },
+  {
+    "name": "Chad",
+    "region": "Africa",
+    "cases": 3776,
+    "caseDensity": 22.99,
+    "deaths": 132,
+    "deathDensity": 0.8
+  },
+  {
+    "name": "Comoros",
+    "region": "Africa",
+    "cases": 3473,
+    "caseDensity": 399.38,
+    "deaths": 142,
+    "deathDensity": 16.33
+  },
+  {
+    "name": "San Marino",
+    "region": "Europe",
+    "cases": 3440,
+    "caseDensity": 10136.13,
+    "deaths": 72,
+    "deathDensity": 212.15
+  },
+  {
+    "name": "Jersey",
+    "region": "Europe",
+    "cases": 3208,
+    "caseDensity": 2948.53,
+    "deaths": 68,
+    "deathDensity": 62.5
+  },
+  {
+    "name": "Guinea-Bissau",
+    "region": "Africa",
+    "cases": 3064,
+    "caseDensity": 155.69,
+    "deaths": 46,
+    "deathDensity": 2.34
+  },
+  {
+    "name": "Eritrea",
+    "region": "Africa",
+    "cases": 2685,
+    "caseDensity": 75.71,
+    "deaths": 7,
+    "deathDensity": 0.2
+  },
+  {
+    "name": "Barbados",
+    "region": "Americas",
+    "cases": 2647,
+    "caseDensity": 921.1,
+    "deaths": 29,
+    "deathDensity": 10.09
+  },
+  {
+    "name": "Saint Lucia",
+    "region": "Americas",
+    "cases": 2620,
+    "caseDensity": 1426.81,
+    "deaths": 25,
+    "deathDensity": 13.61
+  },
+  {
+    "name": "Liechtenstein",
+    "region": "Europe",
+    "cases": 2617,
+    "caseDensity": 6862.1,
+    "deaths": 52,
+    "deathDensity": 136.35
+  },
+  {
+    "name": "United States Virgin Islands",
+    "region": "Americas",
+    "cases": 2565,
+    "caseDensity": 2456.31,
+    "deaths": 25,
+    "deathDensity": 23.94
+  },
+  {
+    "name": "Mongolia",
+    "region": "Western Pacific",
+    "cases": 2551,
+    "caseDensity": 77.81,
+    "deaths": 2,
+    "deathDensity": 0.06
+  },
+  {
+    "name": "Viet Nam",
+    "region": "Western Pacific",
+    "cases": 2362,
+    "caseDensity": 2.43,
+    "deaths": 35,
+    "deathDensity": 0.04
+  },
+  {
+    "name": "Seychelles",
+    "region": "Africa",
+    "cases": 2264,
+    "caseDensity": 2302.05,
+    "deaths": 10,
+    "deathDensity": 10.17
+  },
+  {
+    "name": "Yemen",
+    "region": "Eastern Mediterranean",
+    "cases": 2161,
+    "caseDensity": 7.25,
+    "deaths": 619,
+    "deathDensity": 2.08
+  },
+  {
+    "name": "Sint Maarten",
+    "region": "Americas",
+    "cases": 2027,
+    "caseDensity": 4726.93,
+    "deaths": 27,
+    "deathDensity": 62.96
+  },
+  {
+    "name": "New Zealand",
+    "region": "Western Pacific",
+    "cases": 1994,
+    "caseDensity": 41.35,
+    "deaths": 26,
+    "deathDensity": 0.54
+  },
+  {
+    "name": "Liberia",
+    "region": "Africa",
+    "cases": 1988,
+    "caseDensity": 39.31,
+    "deaths": 85,
+    "deathDensity": 1.68
+  },
+  {
+    "name": "Turks and Caicos Islands",
+    "region": "Americas",
+    "cases": 1984,
+    "caseDensity": 5124.23,
+    "deaths": 13,
+    "deathDensity": 33.58
+  },
+  {
+    "name": "Burundi",
+    "region": "Africa",
+    "cases": 1983,
+    "caseDensity": 16.68,
+    "deaths": 3,
+    "deathDensity": 0.03
+  },
+  {
+    "name": "Monaco",
+    "region": "Europe",
+    "cases": 1844,
+    "caseDensity": 4698.81,
+    "deaths": 22,
+    "deathDensity": 56.06
+  },
+  {
+    "name": "Sao Tome and Principe",
+    "region": "Africa",
+    "cases": 1578,
+    "caseDensity": 720.03,
+    "deaths": 20,
+    "deathDensity": 9.13
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "region": "Americas",
+    "cases": 1494,
+    "caseDensity": 1346.67,
+    "deaths": 6,
+    "deathDensity": 5.41
+  },
+  {
+    "name": "Saint Martin",
+    "region": "Americas",
+    "cases": 1456,
+    "caseDensity": 3766.26,
+    "deaths": 12,
+    "deathDensity": 31.04
+  },
+  {
+    "name": "Papua New Guinea",
+    "region": "Western Pacific",
+    "cases": 970,
+    "caseDensity": 10.84,
+    "deaths": 10,
+    "deathDensity": 0.11
+  },
+  {
+    "name": "Bhutan",
+    "region": "South-East Asia",
+    "cases": 866,
+    "caseDensity": 112.23,
+    "deaths": 1,
+    "deathDensity": 0.13
+  },
+  {
+    "name": "Guernsey",
+    "region": "Europe",
+    "cases": 808,
+    "caseDensity": 1278.56,
+    "deaths": 14,
+    "deathDensity": 22.15
+  },
+  {
+    "name": "Other",
+    "region": "Other",
+    "cases": 745,
+    "caseDensity": "",
+    "deaths": 13,
+    "deathDensity": ""
+  },
+  {
+    "name": "Bermuda",
+    "region": "Americas",
+    "cases": 699,
+    "caseDensity": 1122.48,
+    "deaths": 12,
+    "deathDensity": 19.27
+  },
+  {
+    "name": "Faroe Islands",
+    "region": "Europe",
+    "cases": 658,
+    "caseDensity": 1346.57,
+    "deaths": 1,
+    "deathDensity": 2.05
+  },
+  {
+    "name": "Mauritius",
+    "region": "Africa",
+    "cases": 603,
+    "caseDensity": 47.41,
+    "deaths": 10,
+    "deathDensity": 0.79
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "region": "Americas",
+    "cases": 548,
+    "caseDensity": 559.59,
+    "deaths": 10,
+    "deathDensity": 10.21
+  },
+  {
+    "name": "United Republic of Tanzania",
+    "region": "Africa",
+    "cases": 509,
+    "caseDensity": 0.85,
+    "deaths": 21,
+    "deathDensity": 0.04
+  },
+  {
+    "name": "Cambodia",
+    "region": "Western Pacific",
+    "cases": 484,
+    "caseDensity": 2.89,
+    "deaths": 0,
+    "deathDensity": 0
+  },
+  {
+    "name": "Saint Barthélemy",
+    "region": "Americas",
+    "cases": 475,
+    "caseDensity": 4805.26,
+    "deaths": 0,
+    "deathDensity": 0
+  },
+  {
+    "name": "Isle of Man",
+    "region": "Europe",
+    "cases": 444,
+    "caseDensity": 522.16,
+    "deaths": 25,
+    "deathDensity": 29.4
+  },
+  {
+    "name": "Cayman Islands",
+    "region": "Americas",
+    "cases": 425,
+    "caseDensity": 646.68,
+    "deaths": 2,
+    "deathDensity": 3.04
+  },
+  {
+    "name": "Bonaire",
+    "region": "Americas",
+    "cases": 387,
+    "caseDensity": 1850.35,
+    "deaths": 4,
+    "deathDensity": 19.13
+  },
+  {
+    "name": "Brunei Darussalam",
+    "region": "Western Pacific",
+    "cases": 185,
+    "caseDensity": 42.29,
+    "deaths": 3,
+    "deathDensity": 0.69
+  },
+  {
+    "name": "British Virgin Islands",
+    "region": "Americas",
+    "cases": 153,
+    "caseDensity": 506,
+    "deaths": 1,
+    "deathDensity": 3.31
+  },
+  {
+    "name": "Grenada",
+    "region": "Americas",
+    "cases": 148,
+    "caseDensity": 131.53,
+    "deaths": 1,
+    "deathDensity": 0.89
+  },
+  {
+    "name": "Northern Mariana Islands (Commonwealth of the)",
+    "region": "Western Pacific",
+    "cases": 135,
+    "caseDensity": 234.55,
+    "deaths": 2,
+    "deathDensity": 3.47
+  },
+  {
+    "name": "Dominica",
+    "region": "Americas",
+    "cases": 134,
+    "caseDensity": 186.13,
+    "deaths": 0,
+    "deathDensity": 0
+  },
+  {
+    "name": "Timor-Leste",
+    "region": "South-East Asia",
+    "cases": 103,
+    "caseDensity": 7.81,
+    "deaths": 0,
+    "deathDensity": 0
+  },
+  {
+    "name": "Fiji",
+    "region": "Western Pacific",
+    "cases": 56,
+    "caseDensity": 6.25,
+    "deaths": 2,
+    "deathDensity": 0.22
+  },
+  {
+    "name": "New Caledonia",
+    "region": "Western Pacific",
+    "cases": 55,
+    "caseDensity": 19.26,
+    "deaths": 0,
+    "deathDensity": 0
+  },
+  {
+    "name": "Falkland Islands (Malvinas)",
+    "region": "Americas",
+    "cases": 49,
+    "caseDensity": 1406.83,
+    "deaths": 0,
+    "deathDensity": 0
+  },
+  {
+    "name": "Lao People's Democratic Republic",
+    "region": "Western Pacific",
+    "cases": 45,
+    "caseDensity": 0.62,
+    "deaths": 0,
+    "deathDensity": 0
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "region": "Americas",
+    "cases": 41,
+    "caseDensity": 77.08,
+    "deaths": 0,
+    "deathDensity": 0
+  },
+  {
+    "name": "Greenland",
+    "region": "Europe",
+    "cases": 30,
+    "caseDensity": 52.84,
+    "deaths": 0,
+    "deathDensity": 0
+  },
+  {
+    "name": "Holy See",
+    "region": "Europe",
+    "cases": 26,
+    "caseDensity": 3213.84,
+    "deaths": 0,
+    "deathDensity": 0
+  },
+  {
+    "name": "Saint Pierre and Miquelon",
+    "region": "Americas",
+    "cases": 24,
+    "caseDensity": 414.15,
+    "deaths": 0,
+    "deathDensity": 0
+  },
+  {
+    "name": "Montserrat",
+    "region": "Americas",
+    "cases": 20,
+    "caseDensity": 400.08,
+    "deaths": 1,
+    "deathDensity": 20
+  },
+  {
+    "name": "Sint Eustatius",
+    "region": "Americas",
+    "cases": 20,
+    "caseDensity": 637.15,
+    "deaths": 0,
+    "deathDensity": 0
+  },
+  {
+    "name": "Anguilla",
+    "region": "Americas",
+    "cases": 18,
+    "caseDensity": 119.98,
+    "deaths": 0,
+    "deathDensity": 0
+  },
+  {
+    "name": "Solomon Islands",
+    "region": "Western Pacific",
+    "cases": 18,
+    "caseDensity": 2.62,
+    "deaths": 0,
+    "deathDensity": 0
+  },
+  {
+    "name": "Wallis and Futuna",
+    "region": "Western Pacific",
+    "cases": 9,
+    "caseDensity": 80.03,
+    "deaths": 0,
+    "deathDensity": 0
+  },
+  {
+    "name": "Saba",
+    "region": "Americas",
+    "cases": 6,
+    "caseDensity": 310.4,
+    "deaths": 0,
+    "deathDensity": 0
+  },
+  {
+    "name": "Marshall Islands",
+    "region": "Western Pacific",
+    "cases": 4,
+    "caseDensity": 6.76,
+    "deaths": 0,
+    "deathDensity": 0
+  },
+  {
+    "name": "Samoa",
+    "region": "Western Pacific",
+    "cases": 4,
+    "caseDensity": 2.02,
+    "deaths": 0,
+    "deathDensity": 0
+  },
+  {
+    "name": "Vanuatu",
+    "region": "Western Pacific",
+    "cases": 1,
+    "caseDensity": 0.33,
+    "deaths": 0,
+    "deathDensity": 0
+  },
+  {
+    "name": "American Samoa",
+    "region": "Western Pacific",
+    "cases": 0,
+    "caseDensity": 0,
+    "deaths": 0,
+    "deathDensity": 0
+  },
+  {
+    "name": "Cook Islands",
+    "region": "Western Pacific",
+    "cases": 0,
+    "caseDensity": 0,
+    "deaths": 0,
+    "deathDensity": 0
+  },
+  {
+    "name": "Democratic People's Republic of Korea",
+    "region": "South-East Asia",
+    "cases": 0,
+    "caseDensity": 0,
+    "deaths": 0,
+    "deathDensity": 0
+  },
+  {
+    "name": "Kiribati",
+    "region": "Western Pacific",
+    "cases": 0,
+    "caseDensity": 0,
+    "deaths": 0,
+    "deathDensity": 0
+  },
+  {
+    "name": "Micronesia (Federated States of)",
+    "region": "Western Pacific",
+    "cases": 0,
+    "caseDensity": 0,
+    "deaths": 0,
+    "deathDensity": 0
+  },
+  {
+    "name": "Nauru",
+    "region": "Western Pacific",
+    "cases": 0,
+    "caseDensity": 0,
+    "deaths": 0,
+    "deathDensity": 0
+  },
+  {
+    "name": "Niue",
+    "region": "Western Pacific",
+    "cases": 0,
+    "caseDensity": 0,
+    "deaths": 0,
+    "deathDensity": 0
+  },
+  {
+    "name": "Palau",
+    "region": "Western Pacific",
+    "cases": 0,
+    "caseDensity": 0,
+    "deaths": 0,
+    "deathDensity": 0
+  },
+  {
+    "name": "Pitcairn Islands",
+    "region": "Western Pacific",
+    "cases": 0,
+    "caseDensity": 0,
+    "deaths": 0,
+    "deathDensity": 0
+  },
+  {
+    "name": "Saint Helena",
+    "region": "Africa",
+    "cases": 0,
+    "caseDensity": 0,
+    "deaths": 0,
+    "deathDensity": 0
+  },
+  {
+    "name": "Tokelau",
+    "region": "Western Pacific",
+    "cases": 0,
+    "caseDensity": 0,
+    "deaths": 0,
+    "deathDensity": 0
+  },
+  {
+    "name": "Tonga",
+    "region": "Western Pacific",
+    "cases": 0,
+    "caseDensity": 0,
+    "deaths": 0,
+    "deathDensity": 0
+  },
+  {
+    "name": "Turkmenistan",
+    "region": "Europe",
+    "cases": 0,
+    "caseDensity": 0,
+    "deaths": 0,
+    "deathDensity": 0
+  },
+  {
+    "name": "Tuvalu",
+    "region": "Western Pacific",
+    "cases": 0,
+    "caseDensity": 0,
+    "deaths": 0,
+    "deathDensity": 0
+  }
+]
